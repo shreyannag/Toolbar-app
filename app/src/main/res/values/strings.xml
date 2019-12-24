@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="clickHere">Click Here</string>
+    <string name="Home">Home</string>
+    <string name="Welcome">Welcome to Android Programming</string>
+    <string name="imageDescription">Hopeful I will learn android programming</string>
+    <string name="imageDescription2">Starfish Image</string>
+    <string name="enterData">Enter your name</string>
+</resources>
